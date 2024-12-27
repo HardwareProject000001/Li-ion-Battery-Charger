@@ -1,6 +1,6 @@
 # Li-Ion Battery Chargers Project Repository
 <p align = "center">
-  <img width="182" alt="Screenshot 2024-11-10 at 12 53 51 AM" src="https://github.com/user-attachments/assets/b8019610-3ce6-489b-9841-1c94ead8886b">
+  <img width="640" alt="Screenshot 2024-11-10 at 12 53 51 AM" src="https://github.com/user-attachments/assets/b8019610-3ce6-489b-9841-1c94ead8886b">
 </p>
 This repository provides project files for building, designing, and testing various Li-Ion battery chargers. It explores multiple charging modules, protection circuits, and Battery Management Systems (BMS) suited for Li-Ion batteries. The main objective is to design efficient and safe charging circuits for Li-Ion cells, especially for configurations like the 5-cell Li-Ion battery charger.
 
