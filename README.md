@@ -1,6 +1,6 @@
 # Li-Ion Battery Chargers Project Repository
 <p align = "center">
-  <img width="182" alt="Screenshot 2024-11-10 at 12 53 51 AM" src="https://github.com/user-attachments/assets/c57c1a98-84cb-4b57-9fc0-35c3eb0313d6">
+  <img width="182" alt="Screenshot 2024-11-10 at 12 53 51 AM" src="https://github.com/user-attachments/assets/b8019610-3ce6-489b-9841-1c94ead8886b">
 </p>
 This repository provides project files for building, designing, and testing various Li-Ion battery chargers. It explores multiple charging modules, protection circuits, and Battery Management Systems (BMS) suited for Li-Ion batteries. The main objective is to design efficient and safe charging circuits for Li-Ion cells, especially for configurations like the 5-cell Li-Ion battery charger.
 
@@ -48,18 +48,18 @@ The following modules are popular for implementing safe Li-Ion charging circuits
 
 - **TP4056** : This module is widely used for single-cell Li-Ion charging with a micro-USB interface. It offers built-in overcharge and over-discharge protection.
   <p align = "center">
-    <img width="210" alt="Screenshot 2024-11-10 at 9 02 34 AM" src="https://github.com/user-attachments/assets/b03900a7-901a-4d6e-81bf-0546a2f1e60c">
+    <img width="210" alt="384656458-b03900a7-901a-4d6e-81bf-0546a2f1e60c" src="https://github.com/user-attachments/assets/affbbc74-1575-4684-9ae8-d33e9a75b677" />
   </p>
 
 - **MCP73831** : A compact solution for single-cell charging with reliable current control and thermal regulation.
  <p align = "center">
-   <img width="272" alt="Screenshot 2024-11-10 at 9 04 09 AM" src="https://github.com/user-attachments/assets/2cd9135c-0f03-4d54-9731-f1ee62bc58b5">
+   <img width="272" alt="384656539-2cd9135c-0f03-4d54-9731-f1ee62bc58b5" src="https://github.com/user-attachments/assets/547f16f9-b269-4159-97bc-0bd1dee9d227" />
  </p>
  
 - **BQ24072**: This module is designed for portable applications, offering features like cell balancing and protection for multi-cell setups.
 <p></p>
 <p align = "center">
-  <img width="301" alt="Screenshot 2024-11-10 at 9 07 22 AM" src="https://github.com/user-attachments/assets/a15c5106-b2f6-4808-8509-de0aa4af84aa">
+  <img width="301" alt="384656639-a15c5106-b2f6-4808-8509-de0aa4af84aa" src="https://github.com/user-attachments/assets/bcb614b0-3ee2-4952-8d48-fa20f3086807" />
 </p>
 <hr>
 ## Project Structure
@@ -99,7 +99,7 @@ Each project includes necessary files such as circuit diagrams, datasheets, imag
 This project demonstrates a multi-cell charging system for a 5-cell Li-Ion configuration, covering essential components, BMS integration, and voltage/current regulation. The Circuit Diagrams folder provides schematics for a 5-cell charging circuit with protection features and voltage control.
 
 <p align = "center">
-   <img width="1477" alt="Screenshot 2024-11-10 at 9 00 38 AM" src="https://github.com/user-attachments/assets/9ee66099-9fa5-496d-8382-110742835494">
+  <img width="1477" alt="384656374-9ee66099-9fa5-496d-8382-110742835494" src="https://github.com/user-attachments/assets/89d278f7-0bd8-47d0-8e46-41c2ed64c7de" />
 </p>
 
 ## Usage
